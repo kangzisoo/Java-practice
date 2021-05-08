@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+
+li:nth-child(2n) {/* li중 짝수 */
+	background: #bedcfa;
+}
+li:nth-child(2n+1) {/* li중 홀수 */
+	background: #7abdff;
+}
+li:first-child{
+	border-radius: 0 0 20px 20px;
+}
+li:last-child{
+	border-radius: 0 20px 20px 0;
+}
+li{
+	list-style: none;
+	float: left;
+	padding: 20px;
+	background: yellow;
+}
+
+
+#total { /* id를 선택해서 스타일을 지정할때는 #을 앞에 쓴다. */
+	
+}
+#top{
+	width: 1500px;
+	height: 100px;
+	background: #facf25;
+}
+#member{
+	width: 100px;
+	height: 300px;
+	background: green;
+	color: white;
+	top: 100px;
+	right: 20px;
+	position: fixed;
+	border-radius: 20px 20px 20px 20px;
+}
+#center{
+	width: 1500px;
+	height: 300px;
+	background: #facf25;
+	
+}
+
+body{
+	color: darkgray; /* 글자색 */
+	font-size: 20px; /* 글자크기 */
+	background: lime;
+
+}

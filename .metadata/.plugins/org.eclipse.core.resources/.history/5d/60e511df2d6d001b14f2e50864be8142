@@ -1,0 +1,24 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>lol 전적 조회 MINI.GG</title>
+<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+	<div id="total">
+		<div id="top">
+			<jsp:include page="top.jsp"></jsp:include>
+		</div>
+		<div id="member">
+			<jsp:include page="member.jsp"></jsp:include>		
+		</div>
+		<div id="center">
+			<jsp:include page="center.jsp"></jsp:include>	
+		</div>	
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="input"/>
+		<list key="findhistory">
+			<item value="resultday"/>
+			<item value="price"/>
+			<item value="prime"/>
+			<item value="image2"/>
+			<item value="박차장"/>
+			<item value="li"/>
+			<item value="button"/>
+			<item value="top"/>
+		</list>
+		<list key="replacehistory">
+			<item value="input"/>
+			<item value="count"/>
+			<item value="Img"/>
+			<item value="m1"/>
+			<item value="bag"/>
+			<item value="lane"/>
+			<item value="lol"/>
+			<item value="Board"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="519"/>
+		<item key="DIALOG_Y_ORIGIN" value="354"/>
+	</section>
+</section>

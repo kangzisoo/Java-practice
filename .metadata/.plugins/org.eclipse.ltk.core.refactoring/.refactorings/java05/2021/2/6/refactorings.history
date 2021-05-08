@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;배열응용.영화예매버튼툴.java&apos; to &apos;영화예매버튼들.java&apos;&#x0D;&#x0A;- Original project: &apos;java05&apos;&#x0D;&#x0A;- Original element: &apos;배열응용.영화예매버튼툴.java&apos;&#x0D;&#x0A;- Renamed element: &apos;배열응용.영화예매버튼들.java&apos;" description="Rename compilation unit &apos;영화예매버튼툴.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;배열응용{영화예매버튼툴.java" name="영화예매버튼들.java" references="false" stamp="1612582203009" version="1.0"/>
+</session>
